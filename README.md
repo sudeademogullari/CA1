@@ -1,6 +1,6 @@
 # CA1
 This project includes an exploratory data analysis (EDA) of House Prices record as a subset of CA01. This assignment aims at learning the data, investigating the connection between variables, missing values, and analyzing collinearity among numeric variables prior to proceeding to modeling. 
-Files in This Repository
+Files in This Repository:
 The main notebook containing:
 Data loading
 Exploratory visualizations
